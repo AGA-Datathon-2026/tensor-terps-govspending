@@ -34,11 +34,12 @@ https://public.tableau.com/views/HowUSStatesSpends/Dashboard2?:language=en-GB&:s
 
 ### Screenshots
 
-#### Agency Spending Analysis
-![Agency Spending](tableau/screenshots/How US Agencies Spend.png)
+## Agency Spending Analysis
+![Agency Spending](tableau/screenshots/How%20US%20Agencies%20Spend.png)
 
-#### State-Level Spending Map
-![State Map](tableau/screenshots/How US States Spend.png)
+## State-Level Spending Map
+![State Map](tableau/screenshots/How%20US%20States%20Spend.png)
+
 
 
 ## Tools & Technologies
