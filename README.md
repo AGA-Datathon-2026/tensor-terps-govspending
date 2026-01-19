@@ -18,7 +18,7 @@ Tensor Terps
 - **Dhvani Khatri (University of Maryland)**  
   I’m a Master’s student in Information Systems at the University of Maryland, passionate about bridging technology and business. I enjoy using data, analytics, and structured problem-solving to support decision-making and drive digital transformation. My interests lie in tech-driven strategy, consulting, and building scalable, data-backed solutions.
 
-  - **Manas Apte (University of Maryland)**  
+- **Manas Apte (University of Maryland)**  
   I’m a Master’s student in Information Systems with a strong interest in consulting and business analytics. I enjoy breaking down complex, ambiguous problems into structured insights, working with data to support decision-making, and collaborating with cross-functional teams. I’m particularly interested in applying technology and analytics to drive business transformation and measurable impact.
 
 - **Hannah Kannan (University of Maryland)**  
