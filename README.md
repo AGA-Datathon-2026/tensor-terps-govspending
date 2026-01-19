@@ -1,49 +1,82 @@
-# Tensor Terps — US Government Spending Explorer
+# Team Name
+Tensor Terps
 
-## Project Summary
-This project promotes financial literacy by transforming complex U.S. government spending data into clear, interactive visualizations.
+---
 
-## Data Source
-- USAspending.gov API
+## Mobile Phone Number (temporary)
++1 2026973471
 
-## Repository Structure
-- sql/ — database schema and analytics views
-- python/ — ETL scripts
-- data/processed/ — curated datasets for Tableau
-- tableau/ — Tableau dashboards and screenshots
+---
 
-## How to Reproduce
-1. Run SQL scripts in order (01 → 03)
-2. Load processed CSVs
-3. Open Tableau workbook
+## Team Members (with brief biographies)
+- **Yash Mahajan (University of Maryland)**  
+  I am a Master’s student in Information Systems at the University of Maryland with prior experience as a Cloud Engineer at Jio Platforms. My interests lie at the intersection of business and technology, with a focus on analytics-driven insights and AI-enabled transformation. I enjoy building solutions that are technically sound and aligned with real business needs.
 
-## Dashboards
-The project includes an interactive Tableau dashboard published on Tableau Public, along with static previews below.
+- **Tanvi Sawant (University of Maryland)**  
+  I am a Master’s student in Information Systems at the University of Maryland, with prior experience as a backend developer at TCS. My interests lie in business analytics, AI-driven transformation, and product strategy. I enjoy applying technical skills to create structured, impactful business solutions.
 
-**Live Dashboard 1:** 
-https://public.tableau.com/views/HowUSStatesSpends/Dashboard2?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+- **Dhvani Khatri (University of Maryland)**  
+  I’m a Master’s student in Information Systems at the University of Maryland, passionate about bridging technology and business. I enjoy using data, analytics, and structured problem-solving to support decision-making and drive digital transformation. My interests lie in tech-driven strategy, consulting, and building scalable, data-backed solutions.
 
-**Live Dashboard 1:** https://public.tableau.com/views/HowUSAgenciesSpend/How_US_Government_Spends?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
+  - **Manas Apte (University of Maryland)**  
+  I’m a Master’s student in Information Systems with a strong interest in consulting and business analytics. I enjoy breaking down complex, ambiguous problems into structured insights, working with data to support decision-making, and collaborating with cross-functional teams. I’m particularly interested in applying technology and analytics to drive business transformation and measurable impact.
 
-### Dashboard Highlights
-- Total U.S. government spending trends over time
-- Top federal agencies by annual spending
-- Year-over-year (YoY) growth analysis
-- Award type distribution (Contracts vs Assistance)
-- State-level spending patterns
+- **Hannah Kannan (University of Maryland)**  
+  I’m a Master’s student in Information Systems at the University of Maryland, with experience in business analysis and strategic consulting work. I enjoy using data, analytics, and structured problem-solving to support decision-making and deliver business insights. I’m passionate about applying technology and strategic thinking to solve complex business challenges and drive measurable impact
 
-### Screenshots
+---
 
-## Agency Spending Analysis
-![Agency Spending](tableau/screenshots/How%20US%20Agencies%20Spend.png)
+## Short Abstract of the Project
+This project promotes financial literacy by transforming complex U.S. federal spending data into clear, interactive dashboards. Using the USAspending.gov API, we structured spending data by year, agency, award type, and state, then built Tableau visualizations so non-technical users can explore where government money goes, how spending changes over time, and which agencies/states account for the largest shares.
 
-## State-Level Spending Map
-![State Map](tableau/screenshots/How%20US%20States%20Spend.png)
+---
 
+## Development Tools Used to Build the Project
+- **SQL Server** (data modeling, fact/dimension tables, analytics views)
+- **Python** (ETL, transformation, dataset creation)
+- **Tableau Desktop / Tableau Public** (dashboard development and publishing)
+- **GitHub** (version control, collaboration, submission)
 
+---
 
-## Tools & Technologies
-SQL Server, Python, Tableau, USAspending.gov API
+## SDKs Used in the Project
+- **Python runtime environment (Python 3.x)**
 
-## Team
-Tensor Terps — University of Maryland
+---
+
+## APIs Used in the Project
+- **USAspending.gov API** (official federal spending data source)
+
+---
+
+## Assets Used in the Project
+- Tableau dashboard screenshots stored in: `tableau/screenshots/`
+- Processed CSV datasets stored in: `data/processed/`
+
+---
+
+## Libraries Used in the Project
+- `pandas`
+- `requests`
+- `pyodbc`
+
+---
+
+## Components Not Created During the Datathon
+- None
+
+---
+
+## Link to the Team GitHub Repository
+https://github.com/AGA-Datathon-2026/tensor-terps-govspending
+
+---
+
+## YouTube Link (screen capture demo)
+https://youtu.be/S8Pi3a7KnYs?si=fxv3ggVR1FBdoDmY
+
+---
+
+## Submission Requirement (Datathon GitHub + Regular Commits)
+This project is submitted under the **AGA-Datathon-2026** GitHub organization.
+
